@@ -1,0 +1,58 @@
+--- NEWS PORTAL ---
+1. Generating Database (blizzardalpha)
+2. Find Potential Solution And Probabilities To Make This Happen.
+
+TABLES:
+Users - (
+	UID,
+    RID,
+	Firstname,
+    Lastname,
+    Username,
+    Email, 
+    Password,
+    CreationDate
+)
+
+GENERATING USERS TABLE DONE
+------------------------------------------
+
+
+Logins - (
+    LID,
+    RID,
+    LastVisited,
+    OnlineStatus
+)
+
+Profiles - (
+    PID,
+    RID
+)
+
+
+Articles - (
+    AID,
+    UID,
+    RID,
+    ArticleTitle,
+    ArticlesShortDescription,
+    ArticlesFullDescrtion,
+    ArticleImageURL,
+    ArticleVideoURL,
+    PublishedDate
+)
+
+Comments -
+
+Likes -
+
+Categories - 
+
+Countries -
+
+Cities - 
+
+Intentions -
+
+WILL BE DECIDED LATER

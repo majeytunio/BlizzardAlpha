@@ -1,0 +1,8 @@
+THINGS WE HAVE DONE
+BASIC LOOG OF MAIN PAGE
+
+We Have Implement Bootstrap Files and Some Custom Styling
+
+We Have To Make A Table For Artiles In Databases.
+For Testing We Have Used Users Tables As Listing In News Articles But Now We Have To Make Articles Table
+

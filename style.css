@@ -1,0 +1,33 @@
+.title{
+    background: #102030;
+    padding: 10px;
+    margin:0px;
+    color:#fff;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.content{
+    background: #dfdfdf;
+    padding: 10px;
+    margin: 0px;
+    color:#102030;
+
+    border-radius: 0px 0px 10px 10px;
+}
+
+.container{
+    float: left;
+    width: 30%;
+    margin: 10px;
+}
+
+
+
+.placeholder{
+    
+}
+
+
+
+
+
